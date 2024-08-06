@@ -1,0 +1,6 @@
+@Chanchamito.API_HostAddress = http://localhost:5264
+
+GET {{Chanchamito.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
